@@ -1,4 +1,4 @@
-# CP1404 Assignment 2 - Song List 2.0 by YOUR_NAME
+# CP1404 Assignment 2 - Song Supply 2.0 by YOUR_NAME
 
 A Python project with GUI and Console programs that (re)use classes to manage a list of songs to learn.
 

@@ -29,8 +29,6 @@ def run_tests():
     print(song_collection)
     # TODO: Add more sorting tests
 
-    # TODO: Test saving songs (check file manually to see results)
-
     # TODO: Add more tests, as appropriate, for each method
 
 

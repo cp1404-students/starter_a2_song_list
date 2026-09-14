@@ -9,10 +9,10 @@ GitHub URL:
 from kivy.app import App
 
 
-class SongListApp(App):
+class SongSupplyApp(App):
     """..."""
     pass
 
 
 if __name__ == '__main__':
-    SongListApp().run()
+    SongSupplyApp().run()
